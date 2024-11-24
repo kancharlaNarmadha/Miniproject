@@ -104,11 +104,14 @@ Note: These metrics can be customized based on your actual performance evaluatio
 
 ## Articles published / References
 1.Singh, H., Jain, M., Bhatia, S. Machine learning in the prediction of pancreatic cancer using CT scan data: A review. Journal of Cancer Research and Therapeutics. 2021;17(5):1180-1185. doi: 10.4103/jcrt.JCRT_123_21
-2.15.Gibbs, P., Owens, D., Wenham, R., et al. A radiomic- based prediction model for pancreatic cancer using machine learning. Journal of Medical Imaging. 2021;8(3):031107.
+
+2.Gibbs, P., Owens, D., Wenham, R., et al. A radiomic- based prediction model for pancreatic cancer using machine learning. Journal of Medical Imaging. 2021;8(3):031107.
 doi: 10.1117/1.JMI.8.3.031107
-3.9.Koay, E.J., Christodoulou, F., Smalley, C.M., et al.
+
+3.Koay, E.J., Christodoulou, F., Smalley, C.M., et al.
 Predicting clinical outcomes in pancreatic cancer with radiomics and machine learning methods. JAMA Oncology. 2021;7(9):1314-1324. doi: 10.1001/jamaoncol.2021.221
-4.8.Ghosh, S., Bagchi, A., Dewangan, A., Pal, A. Multi- parametric MRI and radiomics-based machine learning
+
+4.Ghosh, S., Bagchi, A., Dewangan, A., Pal, A. Multi- parametric MRI and radiomics-based machine learning
 techniques for pancreatic cancer diagnosis. Medical Physics.
 2020;47(10):5023-5032. doi: 10.1002/mp.14449
 
